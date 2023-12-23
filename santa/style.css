@@ -1,0 +1,43 @@
+.santa{
+    width: 900px; ;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: red;
+    justify-content: space-around;
+}
+.inside{
+    width: 265px; ;
+    height: 500px;
+    display: flex;
+   
+    border: dashed 2px;
+}
+.inside1{
+    width: 265px; ;
+    height: 500px;
+    display: flex;
+    
+    border: dashed 2px;
+}
+.inside2{
+    width: 265px; ;
+    height: 500px;
+    display: flex;
+    
+    border: dashed 2px;
+}
+.pismo{
+    text-align: center;
+    width: 100%;
+}
+.call{
+    text-align: center;
+    width: 100%;
+}
+.shop{
+    text-align: center;
+    width: 100%;
+}
